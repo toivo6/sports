@@ -1,0 +1,5 @@
+acme_sport:
+    resource: "@AcmeSportBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
